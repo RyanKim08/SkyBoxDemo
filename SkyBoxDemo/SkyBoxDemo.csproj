@@ -70,6 +70,12 @@
     <Content Include="Common\initShaders.js" />
     <Content Include="Common\MV.js" />
     <Content Include="Common\webgl-utils.js" />
+    <Content Include="Images\park_back.jpg" />
+    <Content Include="Images\park_bottom.jpg" />
+    <Content Include="Images\park_front.jpg" />
+    <Content Include="Images\park_left.jpg" />
+    <Content Include="Images\park_right.jpg" />
+    <Content Include="Images\park_top.jpg" />
     <Content Include="SkyBoxDemo.html" />
     <Content Include="SkyBoxDemo.js" />
     <Content Include="Web.config" />
